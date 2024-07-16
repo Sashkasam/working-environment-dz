@@ -1,5 +1,5 @@
 ![CI](https://github.com/Sashkasam/working-environment-dz/actions/workflows/web.yml/badge.svg)
-[![Build status](https://ci.appveyor.com/api/projects/status/yf9mu0q89blwp1g4?svg=true)](https://ci.appveyor.com/project/Sashkasam/working-environment-dz)
+
 # Домашнее задание к занятию "1. Рабочее окружение"
 
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
